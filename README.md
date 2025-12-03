@@ -1,5 +1,7 @@
 # OutSourced
-Repository for the OutSourced Minecraft server
+Repository for the OutSourced Minecraft server.
+**OutSourced** is an open-sourced Minecraft server project built for performance, customization and doing whatever you want really. 
+It features clean codebase designed to be easy to understand, extend, and contribute to. Whether you're exploring the gameplay or trying to actively contribute, this project aims to provide fun for anyone interested in Minecraft game design, Skript development or even building.
 
 # Setup
 This repository contains all the server files and configurtions. Plugins and scripts are included.
